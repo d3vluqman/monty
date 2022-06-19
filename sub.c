@@ -4,7 +4,6 @@
  * _sub -  subtracts top element of the stack from the second top element
  * @head: double pointer to header (top) of the stack
  * @line_number: counter for line number of the file
- * Author: Excel Nwachukwu
  *
  * Return: void
  */
