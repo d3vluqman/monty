@@ -4,7 +4,6 @@
  * _swap -  swaps the top two elements of the stack
  * @stack: double pointer to header (top) of the stack
  * @line_number: counter for line number of the file
- * author: Excel Nwachukwu
  *
  * Return: void
  */
