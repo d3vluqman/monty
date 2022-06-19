@@ -4,7 +4,6 @@
  * _nop - The opcode nop does nothing
  * @head: double pointer to header (top) of the stack
  * @line_number: counter for line number of the file
- * Author: Excel Nwachukwu
  *
  * Return: void
  */
